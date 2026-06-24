@@ -33,6 +33,12 @@ No `sdkwork.app.config.json` is present at this root. If the task changes applic
 - `specs/`: not present here; use when local contracts need to narrow root standards.
 - `sdks/`: not present here; use only for SDK authority or generation surfaces.
 
+## Documentation Canon
+
+- [docs/README.md](docs/README.md)
+- [docs/product/prd/PRD.md](docs/product/prd/PRD.md)
+- [docs/architecture/tech/TECH_ARCHITECTURE.md](docs/architecture/tech/TECH_ARCHITECTURE.md)
+
 ## Spec Resolution Order
 
 1. Read this `AGENTS.md` and any nearer component-level `AGENTS.md`.
